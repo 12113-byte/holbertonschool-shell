@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | unique -u
+sort --ignore-case | unique -u
